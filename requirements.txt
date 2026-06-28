@@ -39,11 +39,11 @@ langgraph-sdk==0.3.14
 langsmith==0.8.4
 MarkupSafe==3.0.3
 narwhals==2.21.0
-numpy==2.4.4
+# numpy==2.4.4
 orjson==3.11.9
 ormsgpack==1.12.2
 packaging==26.2
-pandas==3.0.3
+# pandas==3.0.3
 pillow==12.2.0
 protobuf==7.34.1
 pyarrow==24.0.0
